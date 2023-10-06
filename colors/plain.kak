@@ -40,5 +40,5 @@ face global StatusLineInfo white,default
 face global StatusLineValue white,default
 face global StatusCursor default+r
 face global Prompt default
-face global MatchingChar default
+face global MatchingChar default+r
 face global BufferPadding default
