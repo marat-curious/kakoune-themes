@@ -45,3 +45,4 @@ face global StatusCursor default+r
 face global Prompt default
 face global MatchingChar default+r
 face global BufferPadding default
+face global Whitespace default
