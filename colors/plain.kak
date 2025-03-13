@@ -22,11 +22,11 @@ face global bullet default
 face global list default
 
 face global Default default,default
-face global PrimarySelection black,yellow
+face global PrimarySelection black,white
 face global SecondarySelection black,blue
 face global PrimaryCursor black,white
 face global SecondaryCursor white,blue
-face global PrimaryCursorEol black,white
+face global PrimaryCursorEol black,yellow
 face global SecondaryCursorEol default
 face global LineNumbers default
 face global LineNumberCursor default
