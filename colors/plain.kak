@@ -24,7 +24,7 @@ face global list default
 face global Default default,default
 face global PrimarySelection black,white
 face global SecondarySelection black,blue
-face global PrimaryCursor black,white
+face global PrimaryCursor black,yellow
 face global SecondaryCursor white,blue
 face global PrimaryCursorEol black,yellow
 face global SecondaryCursorEol default
@@ -45,4 +45,4 @@ face global StatusCursor default+r
 face global Prompt default
 face global MatchingChar default+r
 face global BufferPadding default
-face global Whitespace default
+face global Whitespace bright-black
