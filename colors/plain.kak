@@ -1,6 +1,6 @@
 face global attribute default
 face global builtin default
-face global comment default
+face global comment default+i
 face global documentation default
 face global function defualt
 face global identifier default
